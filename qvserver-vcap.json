@@ -1,0 +1,71 @@
+Getting env variables for app qvserver in org pklein011@gmail.com / space dev as pklein011@gmail.com...
+OK
+
+System-Provided:
+{
+ "VCAP_SERVICES": {
+  "cloudantNoSQLDB": [
+   {
+    "binding_name": null,
+    "credentials": {
+     "apikey": "CB9cjtr6yxfo95iyyFcoIWEW6KZcU-mCDjJMNMX7Wj8h",
+     "host": "429ce7bb-f7a5-4541-b2de-9eb15b972e14-bluemix.cloudantnosqldb.appdomain.cloud",
+     "iam_apikey_description": "Auto-generated for binding 3026fa24-c1a1-4959-982f-0d045d5aec68",
+     "iam_apikey_name": "Cloudant-nr",
+     "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/73b1bf3361064d5fb259cbe6c6cdae09::serviceid:ServiceId-02704326-cc33-461d-b3af-cc4710189645",
+     "password": "15524718208299cc1cc6bc5edc349828cb82e2468ce3679170e255e5f68b7157",
+     "port": 443,
+     "url": "https://429ce7bb-f7a5-4541-b2de-9eb15b972e14-bluemix:15524718208299cc1cc6bc5edc349828cb82e2468ce3679170e255e5f68b7157@429ce7bb-f7a5-4541-b2de-9eb15b972e14-bluemix.cloudantnosqldb.appdomain.cloud",
+     "username": "429ce7bb-f7a5-4541-b2de-9eb15b972e14-bluemix"
+    },
+    "instance_name": "pklein011-qvDB",
+    "label": "cloudantNoSQLDB",
+    "name": "pklein011-qvDB",
+    "plan": "Lite",
+    "provider": null,
+    "syslog_drain_url": null,
+    "tags": [
+     "data_management",
+     "ibm_created",
+     "lite",
+     "ibm_dedicated_public"
+    ],
+    "volume_mounts": []
+   }
+  ]
+ }
+}
+
+{
+ "VCAP_APPLICATION": {
+  "application_id": "010e8b2a-c3ca-4e0a-aec3-4f581d573fde",
+  "application_name": "qvserver",
+  "application_uris": [
+   "qvserver-relaxed-gazelle.mybluemix.net"
+  ],
+  "application_version": "98f22cca-aed3-4106-b312-b2ee97327302",
+  "cf_api": "https://api.us-south.cf.cloud.ibm.com",
+  "limits": {
+   "disk": 1024,
+   "fds": 16384,
+   "mem": 128
+  },
+  "name": "qvserver",
+  "space_id": "1c226db1-24c7-4644-ba99-e754a6ce6160",
+  "space_name": "dev",
+  "uris": [
+   "qvserver-relaxed-gazelle.mybluemix.net"
+  ],
+  "users": null,
+  "version": "98f22cca-aed3-4106-b312-b2ee97327302"
+ }
+}
+
+No user-defined env variables have been set
+
+Running Environment Variable Groups:
+BLUEMIX_REGION: ibm:yp:us-south
+
+Staging Environment Variable Groups:
+BLUEMIX_REGION: ibm:yp:us-south
+

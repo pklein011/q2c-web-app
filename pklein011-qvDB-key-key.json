@@ -1,0 +1,13 @@
+Getting key pklein011-qvDB-key for service instance pklein011-qvDB as pklein011@gmail.com...
+
+{
+ "apikey": "9Dg-TyrUtlZ5Uxu_0C45KU8vs0wcTauQKEcDN7ZJ2_zb",
+ "host": "429ce7bb-f7a5-4541-b2de-9eb15b972e14-bluemix.cloudantnosqldb.appdomain.cloud",
+ "iam_apikey_description": "Auto-generated for key f1ae892e-d145-4ab4-8148-7400b4183391",
+ "iam_apikey_name": "Credentials-av",
+ "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/73b1bf3361064d5fb259cbe6c6cdae09::serviceid:ServiceId-6ad46f16-cb60-4afe-a7ef-b5ad193fe38d",
+ "password": "15524718208299cc1cc6bc5edc349828cb82e2468ce3679170e255e5f68b7157",
+ "port": 443,
+ "url": "https://429ce7bb-f7a5-4541-b2de-9eb15b972e14-bluemix:15524718208299cc1cc6bc5edc349828cb82e2468ce3679170e255e5f68b7157@429ce7bb-f7a5-4541-b2de-9eb15b972e14-bluemix.cloudantnosqldb.appdomain.cloud",
+ "username": "429ce7bb-f7a5-4541-b2de-9eb15b972e14-bluemix"
+}

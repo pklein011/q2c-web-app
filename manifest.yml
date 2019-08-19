@@ -1,0 +1,5 @@
+---
+applications:
+- name:    qvserver
+  random-route: true
+  memory:  128M
